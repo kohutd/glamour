@@ -29,7 +29,7 @@ Syntax:
 
 Examples:
 
-```
+```css
 .ui-button.red {}
 .ui-button.outline {}
 ```
