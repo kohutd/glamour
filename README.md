@@ -42,6 +42,7 @@ Button:
 .ui-button {}
 .ui-button.red {}
 .ui-button.outline {}
+.ui-button.red.outline {}
 ```
 
 ```html
